@@ -1,0 +1,21 @@
+11th april
+emmet?
+hello world-html
+hello world-js
+put script tag in body at last
+in react hello world?
+add cdn links- inject react to project
+what is cdn?
+what is crossorigin?
+after adding cdn links we see in console if we write react. and see lot of functions exported from react code.
+there are 2 cdn files- core react and for dom operations.
+why two? because react is used in browsers, phones hence dom s different.
+we have a element in doom make it as react root and then render elements on to that root.
+there are 2 params in the React.createElement("h1",{},"Hello") here {} actually takes attributes like id="heading"
+this heading is a react object.
+nested div in react
+two siblings-array
+the structure becomes messy using react.createElement so we use jsx.
+order of file <script>cdn before the app.js
+root.render-> replace anyhing that is in root html
+react only works at root if i write root.render()
