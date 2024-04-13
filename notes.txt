@@ -1,4 +1,4 @@
-11th april
+11th april -1
 emmet?
 hello world-html
 hello world-js
@@ -19,3 +19,6 @@ the structure becomes messy using react.createElement so we use jsx.
 order of file <script>cdn before the app.js
 root.render-> replace anyhing that is in root html
 react only works at root if i write root.render()
+
+11th april- 2
+

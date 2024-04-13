@@ -1,0 +1,28 @@
+{
+  "name": "swiggy-clone",
+  "version": "1.0.0",
+  "description": "-hello world html,js,react",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankita1696/swiggy-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankita1696/swiggy-clone/issues"
+  },
+  "homepage": "https://github.com/ankita1696/swiggy-clone#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
